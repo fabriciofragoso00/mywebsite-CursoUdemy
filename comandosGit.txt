@@ -1,0 +1,8 @@
+git init
+git add
+git commit -m "mensagem qlqer"
+git status
+git log --oneline
+git rm, git mv = remove, rename
+git diff
+git rest sof, mixed, hard
