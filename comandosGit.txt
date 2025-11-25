@@ -6,3 +6,10 @@ git log --oneline
 git rm, git mv = remove, rename
 git diff
 git rest sof, mixed, hard
+git alias(atalho)
+
+git branch
+git switch
+git branch -d
+
+git push
