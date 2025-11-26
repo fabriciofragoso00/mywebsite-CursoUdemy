@@ -12,4 +12,6 @@ git branch
 git switch
 git branch -d
 
+git merge
+
 git push
